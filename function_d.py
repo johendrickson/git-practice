@@ -9,6 +9,9 @@ def max_value(numbers):
         if num > max_num:
             max_num = num
     return max_num
+    max_num = numbers[0]
+    # If a larger number is found, compare and update max_num
+    # Return the largest number
 
 
 if __name__ == "__main__":
