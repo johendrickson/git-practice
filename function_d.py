@@ -12,6 +12,7 @@ def max_value(numbers):
     max_num = numbers[0]
     # If a larger number is found, compare and update max_num
     # Return the largest number
+    print("max_num")
 
 
 if __name__ == "__main__":
